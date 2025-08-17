@@ -73,10 +73,9 @@ class _AnimatedChatTileState extends State<AnimatedChatTile>
           color: Colors.transparent,
           child: InkWell(
             onTap: () {
-              // Add ripple animation
-              _animationController.reverse().then((_) {
-                widget.onTap();
-              });
+              // إزالة الانيميشن المعقد والاستدعاء المباشر
+              print('Tile tapped for: ${widget.chat.name}'); // للتأكد
+              widget.onTap(); // استدعاء مباشر
             },
             child: Container(
               padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),

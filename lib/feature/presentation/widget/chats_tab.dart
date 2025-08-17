@@ -5,8 +5,11 @@ import 'package:whatsapp_task/feature/presentation/bloc/chat/bloc/chat_event.dar
 import 'package:whatsapp_task/feature/presentation/bloc/chat/bloc/chat_state.dart';
 import 'package:whatsapp_task/feature/presentation/widget/animated_chat_tile.dart';
 
+
 class ChatsTab extends StatelessWidget {
-  const ChatsTab({super.key});
+  final void Function(dynamic chat) onChatTap; // callback من HomeScreen
+
+  const ChatsTab({super.key, required this.onChatTap});
 
   @override
   Widget build(BuildContext context) {
@@ -51,9 +54,7 @@ class ChatsTab extends StatelessWidget {
                 return AnimatedChatTile(
                   chat: chat,
                   index: index,
-                  onTap: () {
-                    // TODO: open chat screen
-                  },
+                  onTap: () => onChatTap(chat),
                 );
               },
             ),
