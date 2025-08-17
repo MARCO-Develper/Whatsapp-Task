@@ -1,0 +1,208 @@
+{
+    "chats": [
+        {
+            "id": "1",
+            "name": "Ahmed Hassan",
+            "lastMessage": "Hey there! How have you been?",
+            "time": "12:30",
+            "isOnline": true,
+            "unreadCount": 2,
+            "avatarUrl": "assets/images/avatar1.jpg",
+            "messages": [
+                {
+                    "id": "1",
+                    "text": "Hey there! How have you been?",
+                    "isMe": false,
+                    "time": "12:25",
+                    "type": "text",
+                    "status": "read"
+                },
+                {
+                    "id": "2",
+                    "text": "I'm doing great! Thanks for asking 😊",
+                    "isMe": true,
+                    "time": "12:26",
+                    "type": "text",
+                    "status": "read"
+                },
+                {
+                    "id": "3",
+                    "text": "That's awesome! Want to grab coffee later?",
+                    "isMe": false,
+                    "time": "12:28",
+                    "type": "text",
+                    "status": "read"
+                },
+                {
+                    "id": "4",
+                    "text": "Sure! What time works for you?",
+                    "isMe": true,
+                    "time": "12:29",
+                    "type": "text",
+                    "status": "delivered"
+                },
+                {
+                    "id": "5",
+                    "text": "How about 4 PM at the usual place?",
+                    "isMe": false,
+                    "time": "12:30",
+                    "type": "text",
+                    "status": "sent"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Sara Mohamed",
+            "lastMessage": "Thanks for your help! 🙏",
+            "time": "11:45",
+            "isOnline": false,
+            "unreadCount": 0,
+            "avatarUrl": "assets/images/avatar2.jpg",
+            "messages": [
+                {
+                    "id": "6",
+                    "text": "Could you help me with the project?",
+                    "isMe": false,
+                    "time": "11:30",
+                    "type": "text",
+                    "status": "read"
+                },
+                {
+                    "id": "7",
+                    "text": "Of course! What do you need help with?",
+                    "isMe": true,
+                    "time": "11:32",
+                    "type": "text",
+                    "status": "read"
+                },
+                {
+                    "id": "8",
+                    "text": "I'm having trouble with the Flutter navigation",
+                    "isMe": false,
+                    "time": "11:35",
+                    "type": "text",
+                    "status": "read"
+                },
+                {
+                    "id": "9",
+                    "text": "No problem! Let me send you some resources",
+                    "isMe": true,
+                    "time": "11:40",
+                    "type": "text",
+                    "status": "read"
+                },
+                {
+                    "id": "10",
+                    "text": "Thanks for your help! 🙏",
+                    "isMe": false,
+                    "time": "11:45",
+                    "type": "text",
+                    "status": "read"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Omar Ali",
+            "lastMessage": "See you tomorrow at the meeting",
+            "time": "10:20",
+            "isOnline": true,
+            "unreadCount": 1,
+            "avatarUrl": "assets/images/avatar3.jpg",
+            "messages": [
+                {
+                    "id": "11",
+                    "text": "Don't forget about tomorrow's meeting",
+                    "isMe": false,
+                    "time": "10:15",
+                    "type": "text",
+                    "status": "read"
+                },
+                {
+                    "id": "12",
+                    "text": "Thanks for the reminder! What time again?",
+                    "isMe": true,
+                    "time": "10:17",
+                    "type": "text",
+                    "status": "read"
+                },
+                {
+                    "id": "13",
+                    "text": "10 AM sharp. Don't be late! 😄",
+                    "isMe": false,
+                    "time": "10:18",
+                    "type": "text",
+                    "status": "read"
+                },
+                {
+                    "id": "14",
+                    "text": "I'll be there on time",
+                    "isMe": true,
+                    "time": "10:19",
+                    "type": "text",
+                    "status": "delivered"
+                },
+                {
+                    "id": "15",
+                    "text": "See you tomorrow at the meeting",
+                    "isMe": false,
+                    "time": "10:20",
+                    "type": "text",
+                    "status": "sent"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Mahmoud Khaled",
+            "lastMessage": "Let's meet up this weekend",
+            "time": "Yesterday",
+            "isOnline": true,
+            "unreadCount": 3,
+            "avatarUrl": "assets/images/avatar4.jpg",
+            "messages": [
+                {
+                    "id": "16",
+                    "text": "It's been too long since we last met",
+                    "isMe": false,
+                    "time": "Yesterday",
+                    "type": "text",
+                    "status": "read"
+                },
+                {
+                    "id": "17",
+                    "text": "I agree! We should definitely catch up",
+                    "isMe": true,
+                    "time": "Yesterday",
+                    "type": "text",
+                    "status": "read"
+                },
+                {
+                    "id": "18",
+                    "text": "How about this weekend?",
+                    "isMe": false,
+                    "time": "Yesterday",
+                    "type": "text",
+                    "status": "read"
+                },
+                {
+                    "id": "19",
+                    "text": "Sounds perfect! Saturday or Sunday?",
+                    "isMe": true,
+                    "time": "Yesterday",
+                    "type": "text",
+                    "status": "delivered"
+                },
+                {
+                    "id": "20",
+                    "text": "Let's meet up this weekend",
+                    "isMe": false,
+                    "time": "Yesterday",
+                    "type": "text",
+                    "status": "sent"
+                }
+            ]
+        }
+    ]
+}

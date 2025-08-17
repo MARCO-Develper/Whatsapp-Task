@@ -1,0 +1,44 @@
+{
+    "stories": [
+        {
+            "id": "s1",
+            "name": "My Status",
+            "imageUrl": "assets/images/my_story.jpg",
+            "time": "12:30",
+            "isViewed": false,
+            "isMyStory": true
+        },
+        {
+            "id": "s2",
+            "name": "Ahmed Hassan",
+            "imageUrl": "assets/images/story2.jpg",
+            "time": "2 hours ago",
+            "isViewed": false,
+            "isMyStory": false
+        },
+        {
+            "id": "s3",
+            "name": "Sara Mohamed",
+            "imageUrl": "assets/images/story3.jpg",
+            "time": "4 hours ago",
+            "isViewed": true,
+            "isMyStory": false
+        },
+        {
+            "id": "s4",
+            "name": "Omar Ali",
+            "imageUrl": "assets/images/story4.jpg",
+            "time": "6 hours ago",
+            "isViewed": false,
+            "isMyStory": false
+        },
+        {
+            "id": "s5",
+            "name": "Mahmoud Khaled",
+            "imageUrl": "assets/images/story5.jpg",
+            "time": "8 hours ago",
+            "isViewed": true,
+            "isMyStory": false
+        }
+    ]
+}

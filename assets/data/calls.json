@@ -1,0 +1,36 @@
+{
+    "calls": [
+        {
+            "id": "c1",
+            "name": "Ahmed Hassan",
+            "avatarUrl": "assets/images/avatar1.jpg",
+            "time": "12:30",
+            "type": "video",
+            "status": "outgoing"
+        },
+        {
+            "id": "c2",
+            "name": "Sara Mohamed",
+            "avatarUrl": "assets/images/avatar2.jpg",
+            "time": "11:45",
+            "type": "voice",
+            "status": "incoming"
+        },
+        {
+            "id": "c3",
+            "name": "Omar Ali",
+            "avatarUrl": "assets/images/avatar3.jpg",
+            "time": "09:30",
+            "type": "video",
+            "status": "missed"
+        },
+        {
+            "id": "c4",
+            "name": "Mahmoud Khaled",
+            "avatarUrl": "assets/images/avatar4.jpg",
+            "time": "Yesterday",
+            "type": "voice",
+            "status": "incoming"
+        }
+    ]
+}
