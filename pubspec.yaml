@@ -38,3 +38,4 @@ flutter:
   assets:
     - assets/data/
     - assets/images/
+    - assets/screenshot/
