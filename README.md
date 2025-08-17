@@ -6,16 +6,16 @@ A pixel-perfect WhatsApp clone built with Flutter, featuring both light and dark
 
 ### Dark Mode
 <div align="center">
-  <img src="screenshots/dark_calls_tab.png.jpg" width="250" alt="Calls Tab - Dark Mode" />
-  <img src="screenshots/dark_status_tab.png.jpg" width="250" alt="Status Tab - Dark Mode" />
-  <img src="screenshots/dark_chats_tab.png.jpg" width="250" alt="Chats Tab - Dark Mode" />
+  <img src="screenshots/dark_calls_tab.png" width="250" alt="Calls Tab - Dark Mode" />
+  <img src="screenshots/dark_status_tab.png" width="250" alt="Status Tab - Dark Mode" />
+  <img src="screenshots/dark_chats_tab.png" width="250" alt="Chats Tab - Dark Mode" />
 </div>
 
 ### Light Mode
 <div align="center">
-  <img src="screenshots/light_calls_tab.png.jpg" width="250" alt="Calls Tab - Light Mode" />
-  <img src="screenshots/light_status_tab.png.jpg" width="250" alt="Status Tab - Light Mode" />
-  <img src="screenshots/light_chats_tab.png.jpg" width="250" alt="Chats Tab - Light Mode" />
+  <img src="screenshots/light_calls_tab.png" width="250" alt="Calls Tab - Light Mode" />
+  <img src="screenshots/light_status_tab.png" width="250" alt="Status Tab - Light Mode" />
+  <img src="screenshots/light_chats_tab.png" width="250" alt="Chats Tab - Light Mode" />
 </div>
 
 ## ✨ Features
